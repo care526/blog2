@@ -1,0 +1,11 @@
+.DS_Store
+
+node_modules
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+dist
+docs
+sidebar.config.json
+navbar.config.json
