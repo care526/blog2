@@ -1,4 +1,4 @@
 ---
 home: true
-heroImage: /qiaobusi.jpg
+heroImage: /images/qiaobusi.jpg
 ---
